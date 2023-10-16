@@ -16,7 +16,8 @@ Please review the requirements on Canvas.
  🔴You will need to replace your desire article in <i>"Article title"</i></p>
 <h3>⏬This is an example output for adding "Greedy algorithm"⏬</h3>
   
- ![Output file](https://github.com/BSU-CS-222/project-1-chitko-and-ethan/raw/main/output1.png)
+ <img src="https://github.com/BSU-CS-222/project-1-chitko-and-ethan/raw/main/output1.png" alt="Alt Text" width="500" height="400">
+
 
 
 
