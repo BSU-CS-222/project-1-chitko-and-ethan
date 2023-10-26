@@ -8,7 +8,7 @@ Please review the requirements on Canvas.
   <img src="https://media.giphy.com/media/3o6Zt9EEeSSNLd2nqU/giphy.gif" width="350"/>
 
 <h1>&#x1F4D9;Summary</h1>
-<p>This program will extract the most recent Wikipedia articles for you. The system responds by providing the thirty <br> most recent changes to that page, showing in reverse-chronological order, the time of the change, one space character, and then the username of the person who made the change. </p>
+<p>This program will extract the most recent Wikipedia articles for you. The system responds by providing the thirty <br> most recent changes to that page, showing in reverse-chronological order, the time of the change, one space character, and then the username of the person who made the change. You need to run<strong>🟥"Wikipart1.py"🟥</strong> to run for the console application.</p>
 
 <h2 >◀️Commmad line▶️</h2>
 <p>You will need to write this commad line in the terminal to get all the details. </p>
@@ -35,6 +35,29 @@ Please review the requirements on Canvas.
   <li>python --version</li>
 </ul>  
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<div id="header" align="center">
+<h1>2️⃣ Graphical user interface (GUI) Wiki article search (part-2)</h1>
+<p>This is a GUI version of Wiki article search progran.<br>
+  You can run a file name is called <strong>🟥"Wikipart2.py"🟥</strong>to run for GUI version.
+</p>
+<h4>⭐You will need to intall "ttkbootstrap" in your VScode.⭐</h4>
+<p>In order to intall "ttkbbotstrap". Write this command lines in your terminal.</p>
+
+<ul>
+  <li>▶️pip intall ttkbootstrap◀️</li>
+ 
+</ul>  
+<h3>⏬This is an example of output.⏬</h3>
+ <img src="https://github.com/BSU-CS-222/project-1-chitko-and-ethan/raw/main/output_2.png" alt="Alt Text" width="500" height="400">
+
+ <h2>▶️The direction for using this GUI application is absolutely simple. You can search in the text box for what you are willing to search. After then, you can simply press "enter" key or click on search button.◀️</h2>
+
+</div>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 :man_technologist: Authors :man_technologist:
