@@ -11,12 +11,11 @@ Please review the requirements on Canvas.
 <p>This program will extract the most recent Wikipedia articles for you. The system responds by providing the thirty <br> most recent changes to that page, showing in reverse-chronological order, the time of the change, one space character, and then the username of the person who made the change. You need to run<strong>🟥"Wikipart1.py"🟥</strong> to run for the console application.</p>
 
 <h2 >◀️Commmad line▶️</h2>
-<p>You will need to write this commad line in the terminal to get all the details. </p>
-<p><strong>Python Wikipart1.py <i>"Article title"</i><br><br>
- 🔴You will need to replace your desire article in <i>"Article title"</i></p>
-<h3>⏬This is an example output for adding "Greedy algorithm"⏬</h3>
+<p>You will just need to write the article title in command line. </p>
+
+<h3>⏬This is an example output.⏬</h3>
   
- <img src="https://github.com/BSU-CS-222/project-1-chitko-and-ethan/raw/main/output1.png" alt="Alt Text" width="500" height="400">
+ <img src="https://github.com/BSU-CS-222/project-1-chitko-and-ethan/raw/main/output1.1.png" alt="Alt Text" width="500" height="400">
 
 
 
@@ -40,9 +39,15 @@ Please review the requirements on Canvas.
 
 <div id="header" align="center">
 <h1>2️⃣ Graphical user interface (GUI) Wiki article search (part-2)</h1>
-<p>This is a GUI version of Wiki article search progran.<br>
-  You can run a file name is called <strong>🟥"Wikipart2.py"🟥</strong>to run for GUI version.
+<p>This is an update version of wiki search program.<br>
+  You can run a file name is called <strong>🟥"Wikipart2.py"🟥</strong>to run for update version.
+  There is an menu option you will have to choose for which option you are willing to use. Option 1 for command box search, option 2 for GUI search <br>
+  Option 3 for quit.
+  The technical function and features of this program is, in GUI search box if you enter nothing and search, it will tell you
+  "you will need to enter an article that you are willing to search for". If you enter a wrong article name, it will aslo tell you to enter the right
+  article." 
 </p>
+<h>How cool is it!</h>
 <h4>⭐You will need to intall "ttkbootstrap" in your VScode.⭐</h4>
 <p>In order to intall "ttkbbotstrap". Write this command lines in your terminal.</p>
 
@@ -51,7 +56,7 @@ Please review the requirements on Canvas.
  
 </ul>  
 <h3>⏬This is an example of output.⏬</h3>
- <img src="https://github.com/BSU-CS-222/project-1-chitko-and-ethan/raw/main/output_2.png" alt="Alt Text" width="500" height="400">
+ <img src="https://github.com/BSU-CS-222/project-1-chitko-and-ethan/raw/main/output2.2.png" alt="Alt Text" width="500" height="400">
 
  <h2>▶️The direction for using this GUI application is absolutely simple. You can search in the text box for what you are willing to search. After then, you can simply press "enter" key or click on search button.◀️</h2>
 
