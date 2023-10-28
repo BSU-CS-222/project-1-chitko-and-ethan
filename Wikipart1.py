@@ -27,10 +27,6 @@ def checkExistanceWiki(pages):
         print("Error: Wikipedia page not found.")
         sys.exit(2)
 
-def checkForValidEntry(entry):
-    if len(entry) < 2:
-        print("Error: Please provide the name of a Wikipedia article.")
-        sys.exit(1)
     
 
 def returnWikiAPI(Wikipedia_api_url, article_title):
@@ -49,7 +45,7 @@ def returnWikiAPI(Wikipedia_api_url, article_title):
 #Define a function for gathering the most recent editions
 def get_recent_changes(article_title):
     #Define parameters for the API requests
-    
+    article_title = input("Please enter the Wikipedia article name: ").strip()
 
     #Send a Get request to WIKI API with above exact parameters
     #Gather json file from web api
@@ -84,7 +80,7 @@ def get_recent_changes(article_title):
 #In oreder to prevent for code error check and see user import the article
 #If import not found, print with error: please provide the name of the wiki articles
 if __name__ == "__main__":
-    checkForValidEntry(sys.argv)
+
 
     #Make sure the command line is to forn the article title
     article_title = " ".join(sys.argv[1:])
